@@ -1,6 +1,6 @@
 var ul = document.querySelector("ul");
 
-for (var i = 1; i <= 100; i++) {
+for (var i = 1; i <= 50; i++) {
     var message = "";
     var li = document.createElement("li");
     if (i % 3 === 0) {
