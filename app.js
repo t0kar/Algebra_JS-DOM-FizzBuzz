@@ -40,9 +40,7 @@ var fizzBuzz = setInterval(function () {
     }
     ul.appendChild(li);
 
-    counter += 1;
-
     if (counter === 50) clearInterval(fizzBuzz);
-
+    counter += 1;
 }, 500);
 
