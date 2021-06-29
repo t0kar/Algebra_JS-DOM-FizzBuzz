@@ -1,4 +1,6 @@
-/*var ul = document.querySelector("ul");
+/***ZADATAK 
+ 
+var ul = document.querySelector("ul");
 
 for (var i = 1; i <= 50; i++) {
     var message = "";
@@ -19,6 +21,8 @@ for (var i = 1; i <= 50; i++) {
 
 setTimeout(function () { ul.remove(); }, 10000);
 */
+
+//***BONUS2***
 
 var ul = document.querySelector("ul");
 var counter = 1;

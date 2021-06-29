@@ -34,3 +34,11 @@ Napravite setTimeout koji će nakon 10s obrisati listu.
 
 
 Tko želi može podići rješenje na GitHub :) Ovaj puta možete napraviti GitHub pages jer radimo web stranicu, ne radimo više Node!
+
+BONUS2:
+
+Domagoj Štrekelj: probaj putem setInterval napraviti da se ispisuje jedan po jedan rezultat u listu
+Domagoj Štrekelj: dakle po jedan broj da se provjeri svakih 500ms
+Domagoj Štrekelj: tu nećeš onda koristiti petlju
+Domagoj Štrekelj: tvoj setInterval će napraviti provjeru i sve i onda na kraju toga povećati brojač
+Domagoj Štrekelj: i moraš prekinuti interval kada ti brojač dođe do kraja
